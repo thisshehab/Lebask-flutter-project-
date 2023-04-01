@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598982989505",
+    "project_id": "lebask0",
+    "storage_bucket": "lebask0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598982989505:android:49d642b564ffa11d62a640",
+        "android_client_info": {
+          "package_name": "com.example.lebask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598982989505-6grc88086cigvhfg3iqm6hi4bhmtikgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lebask",
+            "certificate_hash": "93fbd626da70542b5766ba1e9b14c58bbe46b875"
+          }
+        },
+        {
+          "client_id": "598982989505-iqtf5i3adcaqei7liqeo1km4or1r6ncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJaFyR5yRr48qU-1HfRMvmm2GC-qowBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598982989505-iqtf5i3adcaqei7liqeo1km4or1r6ncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
